@@ -16,7 +16,7 @@ The main objective is to investigate population allele frequencies, predicted va
 
 The dataset contains **65,188 observations and 46 variables**.
 
-**Source:** ClinVar Conflicting Classifications dataset, available on Kaggle.
+**Source:** **Source:** [ClinVar Conflicting Classifications – Kaggle](https://www.kaggle.com/datasets/kevinarvai/clinvar-conflicting)
 
 **Key variables:**
 - `CLASS`: Indicates whether clinical classifications are conflicting (1) or not (0).
